@@ -42,7 +42,6 @@ Messages will be visible to all users present on the channel.
 - The ChatController handles WebSocket communication logic, including receiving and broadcasting messages.
 ```
 
-Zaktualizowany opis zawiera informację o dodanym Docker Compose, który pozwala na uruchomienie aplikacji w kontenerach. Użytkownicy będą teraz mogli z łatwością uruchomić aplikację za pomocą komendy `docker-compose up`, co ułatwia proces wdrażania i testowania. Zachęcaj użytkowników do wypróbowania aplikacji w oparciu o nowe instrukcje.
 
 
 
